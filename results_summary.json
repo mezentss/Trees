@@ -1,0 +1,16 @@
+{
+  "rf_best_params": {
+    "clf__max_depth": null,
+    "clf__max_features": "sqrt",
+    "clf__min_samples_leaf": 1,
+    "clf__n_estimators": 200
+  },
+  "rf_best_cv_f1": 0.9999754051993408,
+  "gb_best_params": {
+    "clf__learning_rate": 0.1,
+    "clf__max_depth": 3,
+    "clf__n_estimators": 200,
+    "clf__subsample": 1.0
+  },
+  "gb_best_cv_f1": 0.974637650035671
+}
